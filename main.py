@@ -1,7 +1,7 @@
 from slack import RTMClient
 from chatgpt import ChatGPT
 
-# 발급받은 슬랙 bot user token 기입
+# 발급받은 슬랙 bot user token 기
 bot_token = "<your-slack-bot-token>"
 
 # 지속적으로 슬랙 메세지 트래킹
@@ -33,6 +33,7 @@ def chatgptbot(**payload):
 
 if __name__ == "__main__":
     try:
+        # RTM 클라이언트 호출 및 시작
         rtm_client = RTMClient(token=bot_token)
         print("Starter Bot connected and running!")
         rtm_client.start()
