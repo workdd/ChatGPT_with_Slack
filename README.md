@@ -1,4 +1,4 @@
-# ChatGPT_with_Slack
+# ChatGPT For SlackBot
 [사용법 정리](https://manchann.tistory.com/43)
 
 ### 1. 필수 라이브러리 설치
