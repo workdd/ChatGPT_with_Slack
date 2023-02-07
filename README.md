@@ -1,4 +1,5 @@
 # ChatGPT For SlackBot
+ChatGPT기능을 가진 슬랙봇 개발
 [사용법 정리](https://manchann.tistory.com/43)
 
 ### 1. 필수 라이브러리 설치
